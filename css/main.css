@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: palegoldenrod;
   margin: 0;
   padding: 0;
 }
@@ -21,7 +21,8 @@ h6 {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
+  height:auto;
 }
 
 .main-nav ul {
