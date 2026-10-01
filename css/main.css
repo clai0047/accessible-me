@@ -68,6 +68,13 @@ textarea:focus-visable{
   outline: 3px solid #005fcc;
   outline-offset:3px;
 }
+
+/******FORM LABELS***********/
+form label{
+  display:block;
+  margin-bottom:0.25rem;
+  font-weight:500;
+}
 form input,
 form textarea {
   display: block;
